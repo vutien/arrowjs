@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Change password</title>
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+	<link href="asset/css/bootstrap.min.css" rel="stylesheet">
+	<link href="asset/css/form_style.css" rel="stylesheet">
+	<link href="asset/css/site.css" rel="stylesheet">
+	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-sm-2">
+				<div class="panel panel-default">
+					<div class="panel-body">
+
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-7">
+				<div class="panel panel-default">
+					<div class="panel-heading"><span class="glyphicon glyphicon-shopping-cart"></span> Buy Ads</div>
+					<div class="panel-body">
+						
+						<form class="form-horizontal">
+							<div class="form-group">
+								<label class="control-label col-sm-3" for="email">Ad type:</label>
+								<div class="col-sm-9">
+									<select class="form-control" id="adtype">
+										<option value="1">Header banner 728x90 (10$/week)</option>
+										<option value="2">Center banner 728x90 (9$/week)</option>
+										<option value="3">Right banner 300x100 (7$/week)</option>
+										<option value="4">Left banner 180x150 (6$/week)</option>
+										
+									</select>
+								</div>
+							</div>
+							<div class="form-group">
+								<label class="control-label col-sm-3" for="pwd">Period:</label>
+								<div class="col-sm-2">
+									<select class="form-control" id="period">
+										<option>1</option>
+										<option>2</option>
+										<option>3</option>
+										<option>4</option>
+									</select>
+								</div>
+								<div class="col-sm-1">
+									<div class="control-label pull-left">Week</div>
+								</div>
+								<div class="col-sm-3 pull-right">
+									<div class="control-label pull-left" id="price">Price: 10$</div>
+								</div>
+							</div>
+							<div class="form-group">
+								<label class="control-label col-sm-3" for="pwd">Destination URL</label>
+								<div class="col-sm-9">
+									<input type="text" class="form-control" id="pwd" placeholder="">
+								</div>
+							</div>
+							<div class="form-group">
+								<label class="control-label col-sm-3" for="pwd">Banner URL:</label>
+								<div class="col-sm-9">
+									<input type="text" class="form-control" id="pwd" placeholder="">
+								</div>
+							</div>
+							<div class="form-group">
+								<label class="control-label col-sm-3" for="pwd">Title:</label>
+								<div class="col-sm-9">
+									<input type="text" class="form-control" id="pwd" placeholder="">
+								</div>
+							</div>
+							<div class="form-group">
+								<label class="control-label col-sm-3" for="pwd">Text:</label>
+								<div class="col-sm-9">
+									<input type="text" class="form-control" id="pwd" placeholder="">
+								</div>
+							</div>
+							<div class="form-group">
+								<label class="control-label col-sm-3" for="email">Payment:</label>
+								<div class="col-sm-9">
+									<select class="form-control">
+										<option>Perfect money  </option>
+										
+									</select>
+								</div>
+							</div>
+							<div class="form-group">
+								<div class="col-sm-offset-3 col-sm-9">
+									<button type="submit" class="btn btn-primary"><span class="glyphicon glyphicon-shopping-cart"></span> Buy</button>
+								</div>
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-3">
+				<div class="panel panel-default">
+
+					<div class="panel-body">
+						<div id="layout">
+							<div id="top">728x90</div>
+							<div class="clearfix"></div>
+							<div id="menu"></div>
+							<div id="content">
+								<div id="left" class="pull-left">180x150</div>
+								<div id="cen">728x90</div>
+								<div id="right" class="pull-right">300x100</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<style>
+		#top, #menu, #left, #cen, #right{
+			border:1px solid #ccc;
+			margin-bottom: 5px;
+			height: 50px;
+			
+			line-height: 50px;
+			text-align: center;
+		}
+		#layout{
+			padding: 5px;
+			width: 280px;
+			height: 400px;
+			border:1px solid #ccc;
+		}
+		#top{
+			width: 120px;
+			float:right;
+			
+
+		}
+		#menu{
+			width: 268px;
+
+			height: 20px;
+		
+		}
+		#cen{
+			width: 120px;
+			margin-left: 5px;
+			float:left;
+		}
+		#left{
+			width: 60px;
+		}
+		#right{
+			width: 78px;
+		}
+	</style>
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+	<!-- Include all compiled plugins (below), or include individual files as needed -->
+	<script src="asset/js/bootstrap.min.js"></script>
+	<script>
+		$(document).ready(function(){
+			var prices = [10, 9, 7, 6];
+			$('#top').css('background', '#ccc');
+			function reset(){
+				$('#top').css('background', '#fff');
+				$('#left').css('background', '#fff');
+				$('#right').css('background', '#fff');
+				$('#cen').css('background', '#fff');
+			}
+			function setPrice(i){
+				price = $('#period').val() * prices[i - 1];
+				$('#price').html('Price: '+price+'$');
+			}
+			$('#period').change(function(){
+				setPrice($('#adtype').val());
+			});
+			$('#adtype').change(function(){
+				reset();
+				if ($(this).val() == 1){
+					$('#top').css('background', '#ccc');
+				}
+				if ($(this).val() == 2){
+					$('#cen').css('background', '#ccc');
+				}
+				
+				if ($(this).val() == 3){
+					$('#right').css('background', '#ccc');
+				}
+				if ($(this).val() == 4){
+					$('#left').css('background', '#ccc');
+				}
+				setPrice($(this).val());
+			});
+		});
+	</script>	
+</body>
+
+</html>

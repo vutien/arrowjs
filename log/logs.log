@@ -1,0 +1,260 @@
+{"level":"error","message":"Could not connect to redis server. ArrowJS used fakeredis","timestamp":"2017-01-14T07:36:52.877Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'menu'","timestamp":"2017-01-14T07:36:56.405Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'blog'","timestamp":"2017-01-14T07:36:56.413Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'configuration'","timestamp":"2017-01-14T07:36:56.424Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'dashboard'","timestamp":"2017-01-14T07:36:56.426Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'login'","timestamp":"2017-01-14T07:36:56.428Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'category'","timestamp":"2017-01-14T07:36:56.432Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'plugins'","timestamp":"2017-01-14T07:36:56.432Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'roles'","timestamp":"2017-01-14T07:36:56.435Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'upload'","timestamp":"2017-01-14T07:36:56.438Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'users'","timestamp":"2017-01-14T07:36:56.443Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'widgets'","timestamp":"2017-01-14T07:36:56.448Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'categories'","timestamp":"2017-01-14T07:36:56.451Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'custom_html'","timestamp":"2017-01-14T07:36:56.452Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'facebook_comments'","timestamp":"2017-01-14T07:36:56.455Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'facebook_like'","timestamp":"2017-01-14T07:36:56.457Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'facebook_share'","timestamp":"2017-01-14T07:36:56.459Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'menus'","timestamp":"2017-01-14T07:36:56.461Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'picked_posts'","timestamp":"2017-01-14T07:36:56.463Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'recent_posts'","timestamp":"2017-01-14T07:36:56.464Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'search'","timestamp":"2017-01-14T07:36:56.466Z"}
+{"level":"info","message":"Arrow loaded: 'plugin' - 'facebook'","timestamp":"2017-01-14T07:36:56.469Z"}
+{"level":"info","message":"Arrow loaded: 'plugin' - 'google_analytics'","timestamp":"2017-01-14T07:36:56.472Z"}
+{"level":"info","message":"Arrow loaded: 'plugin' - 'seo'","timestamp":"2017-01-14T07:36:56.474Z"}
+{"level":"info","message":"Application loaded using the \"development\" environment configuration","timestamp":"2017-01-14T07:36:56.484Z"}
+{"level":"info","message":"Application started on port 8000 , Process ID: 2812","timestamp":"2017-01-14T07:36:56.485Z"}
+{"level":"error","message":"Could not connect to redis server. ArrowJS used fakeredis","timestamp":"2017-01-14T11:38:04.538Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'menu'","timestamp":"2017-01-14T11:38:09.505Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'blog'","timestamp":"2017-01-14T11:38:09.505Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'configuration'","timestamp":"2017-01-14T11:38:09.521Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'dashboard'","timestamp":"2017-01-14T11:38:09.521Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'login'","timestamp":"2017-01-14T11:38:09.521Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'category'","timestamp":"2017-01-14T11:38:09.521Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'plugins'","timestamp":"2017-01-14T11:38:09.521Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'roles'","timestamp":"2017-01-14T11:38:09.521Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'upload'","timestamp":"2017-01-14T11:38:09.521Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'users'","timestamp":"2017-01-14T11:38:09.521Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'widgets'","timestamp":"2017-01-14T11:38:09.521Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'categories'","timestamp":"2017-01-14T11:38:09.537Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'custom_html'","timestamp":"2017-01-14T11:38:09.537Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'facebook_comments'","timestamp":"2017-01-14T11:38:09.537Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'facebook_like'","timestamp":"2017-01-14T11:38:09.537Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'facebook_share'","timestamp":"2017-01-14T11:38:09.537Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'menus'","timestamp":"2017-01-14T11:38:09.537Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'picked_posts'","timestamp":"2017-01-14T11:38:09.537Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'recent_posts'","timestamp":"2017-01-14T11:38:09.537Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'search'","timestamp":"2017-01-14T11:38:09.552Z"}
+{"level":"info","message":"Arrow loaded: 'plugin' - 'facebook'","timestamp":"2017-01-14T11:38:09.552Z"}
+{"level":"info","message":"Arrow loaded: 'plugin' - 'google_analytics'","timestamp":"2017-01-14T11:38:09.552Z"}
+{"level":"info","message":"Arrow loaded: 'plugin' - 'seo'","timestamp":"2017-01-14T11:38:09.552Z"}
+{"level":"info","message":"Application loaded using the \"production\" environment configuration","timestamp":"2017-01-14T11:38:09.568Z"}
+{"level":"info","message":"Application started on port 8000 , Process ID: 5868","timestamp":"2017-01-14T11:38:09.568Z"}
+{"level":"error","message":"Could not connect to redis server. ArrowJS used fakeredis","timestamp":"2017-01-14T11:46:41.792Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'menu'","timestamp":"2017-01-14T11:46:43.022Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'blog'","timestamp":"2017-01-14T11:46:43.031Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'configuration'","timestamp":"2017-01-14T11:46:43.042Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'dashboard'","timestamp":"2017-01-14T11:46:43.045Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'login'","timestamp":"2017-01-14T11:46:43.046Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'category'","timestamp":"2017-01-14T11:46:43.051Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'plugins'","timestamp":"2017-01-14T11:46:43.052Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'roles'","timestamp":"2017-01-14T11:46:43.054Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'upload'","timestamp":"2017-01-14T11:46:43.058Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'users'","timestamp":"2017-01-14T11:46:43.062Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'widgets'","timestamp":"2017-01-14T11:46:43.068Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'categories'","timestamp":"2017-01-14T11:46:43.071Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'custom_html'","timestamp":"2017-01-14T11:46:43.072Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'facebook_comments'","timestamp":"2017-01-14T11:46:43.074Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'facebook_like'","timestamp":"2017-01-14T11:46:43.076Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'facebook_share'","timestamp":"2017-01-14T11:46:43.078Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'menus'","timestamp":"2017-01-14T11:46:43.080Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'picked_posts'","timestamp":"2017-01-14T11:46:43.082Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'recent_posts'","timestamp":"2017-01-14T11:46:43.085Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'search'","timestamp":"2017-01-14T11:46:43.087Z"}
+{"level":"info","message":"Arrow loaded: 'plugin' - 'facebook'","timestamp":"2017-01-14T11:46:43.089Z"}
+{"level":"info","message":"Arrow loaded: 'plugin' - 'google_analytics'","timestamp":"2017-01-14T11:46:43.092Z"}
+{"level":"info","message":"Arrow loaded: 'plugin' - 'seo'","timestamp":"2017-01-14T11:46:43.093Z"}
+{"level":"info","message":"Application loaded using the \"production\" environment configuration","timestamp":"2017-01-14T11:46:43.108Z"}
+{"level":"info","message":"Application started on port 8000 , Process ID: 3624","timestamp":"2017-01-14T11:46:43.108Z"}
+{"level":"error","message":"Could not connect to redis server. ArrowJS used fakeredis","timestamp":"2017-01-14T11:50:05.374Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'menu'","timestamp":"2017-01-14T11:50:06.518Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'blog'","timestamp":"2017-01-14T11:50:06.525Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'configuration'","timestamp":"2017-01-14T11:50:06.537Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'dashboard'","timestamp":"2017-01-14T11:50:06.540Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'login'","timestamp":"2017-01-14T11:50:06.541Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'category'","timestamp":"2017-01-14T11:50:06.544Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'plugins'","timestamp":"2017-01-14T11:50:06.546Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'roles'","timestamp":"2017-01-14T11:50:06.549Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'upload'","timestamp":"2017-01-14T11:50:06.553Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'users'","timestamp":"2017-01-14T11:50:06.556Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'widgets'","timestamp":"2017-01-14T11:50:06.562Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'categories'","timestamp":"2017-01-14T11:50:06.567Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'custom_html'","timestamp":"2017-01-14T11:50:06.567Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'facebook_comments'","timestamp":"2017-01-14T11:50:06.570Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'facebook_like'","timestamp":"2017-01-14T11:50:06.572Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'facebook_share'","timestamp":"2017-01-14T11:50:06.574Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'menus'","timestamp":"2017-01-14T11:50:06.576Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'picked_posts'","timestamp":"2017-01-14T11:50:06.579Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'recent_posts'","timestamp":"2017-01-14T11:50:06.582Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'search'","timestamp":"2017-01-14T11:50:06.584Z"}
+{"level":"info","message":"Arrow loaded: 'plugin' - 'facebook'","timestamp":"2017-01-14T11:50:06.586Z"}
+{"level":"info","message":"Arrow loaded: 'plugin' - 'google_analytics'","timestamp":"2017-01-14T11:50:06.588Z"}
+{"level":"info","message":"Arrow loaded: 'plugin' - 'seo'","timestamp":"2017-01-14T11:50:06.590Z"}
+{"level":"info","message":"Application loaded using the \"production\" environment configuration","timestamp":"2017-01-14T11:50:06.604Z"}
+{"level":"info","message":"Application started on port 8000 , Process ID: 6332","timestamp":"2017-01-14T11:50:06.605Z"}
+{"level":"error","message":"Could not connect to redis server. ArrowJS used fakeredis","timestamp":"2017-01-14T11:51:09.879Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'menu'","timestamp":"2017-01-14T11:51:10.891Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'blog'","timestamp":"2017-01-14T11:51:10.907Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'configuration'","timestamp":"2017-01-14T11:51:10.922Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'dashboard'","timestamp":"2017-01-14T11:51:10.922Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'login'","timestamp":"2017-01-14T11:51:10.922Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'category'","timestamp":"2017-01-14T11:51:10.922Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'plugins'","timestamp":"2017-01-14T11:51:10.922Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'roles'","timestamp":"2017-01-14T11:51:10.938Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'upload'","timestamp":"2017-01-14T11:51:10.938Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'users'","timestamp":"2017-01-14T11:51:10.938Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'widgets'","timestamp":"2017-01-14T11:51:10.953Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'categories'","timestamp":"2017-01-14T11:51:10.953Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'custom_html'","timestamp":"2017-01-14T11:51:10.953Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'facebook_comments'","timestamp":"2017-01-14T11:51:10.953Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'facebook_like'","timestamp":"2017-01-14T11:51:10.953Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'facebook_share'","timestamp":"2017-01-14T11:51:10.953Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'menus'","timestamp":"2017-01-14T11:51:10.953Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'picked_posts'","timestamp":"2017-01-14T11:51:10.969Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'recent_posts'","timestamp":"2017-01-14T11:51:10.969Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'search'","timestamp":"2017-01-14T11:51:10.969Z"}
+{"level":"info","message":"Arrow loaded: 'plugin' - 'facebook'","timestamp":"2017-01-14T11:51:10.969Z"}
+{"level":"info","message":"Arrow loaded: 'plugin' - 'google_analytics'","timestamp":"2017-01-14T11:51:10.969Z"}
+{"level":"info","message":"Arrow loaded: 'plugin' - 'seo'","timestamp":"2017-01-14T11:51:10.969Z"}
+{"level":"info","message":"Application loaded using the \"production\" environment configuration","timestamp":"2017-01-14T11:51:10.985Z"}
+{"level":"info","message":"Application started on port 8000 , Process ID: 432","timestamp":"2017-01-14T11:51:10.985Z"}
+{"level":"error","message":"Could not connect to redis server. ArrowJS used fakeredis","timestamp":"2017-01-14T12:24:10.092Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'menu'","timestamp":"2017-01-14T12:24:11.220Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'blog'","timestamp":"2017-01-14T12:24:11.226Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'configuration'","timestamp":"2017-01-14T12:24:11.241Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'dashboard'","timestamp":"2017-01-14T12:24:11.243Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'login'","timestamp":"2017-01-14T12:24:11.246Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'category'","timestamp":"2017-01-14T12:24:11.251Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'plugins'","timestamp":"2017-01-14T12:24:11.252Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'roles'","timestamp":"2017-01-14T12:24:11.255Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'upload'","timestamp":"2017-01-14T12:24:11.259Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'users'","timestamp":"2017-01-14T12:24:11.263Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'widgets'","timestamp":"2017-01-14T12:24:11.270Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'categories'","timestamp":"2017-01-14T12:24:11.273Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'custom_html'","timestamp":"2017-01-14T12:24:11.274Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'facebook_comments'","timestamp":"2017-01-14T12:24:11.276Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'facebook_like'","timestamp":"2017-01-14T12:24:11.278Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'facebook_share'","timestamp":"2017-01-14T12:24:11.280Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'menus'","timestamp":"2017-01-14T12:24:11.281Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'picked_posts'","timestamp":"2017-01-14T12:24:11.283Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'recent_posts'","timestamp":"2017-01-14T12:24:11.286Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'search'","timestamp":"2017-01-14T12:24:11.288Z"}
+{"level":"info","message":"Arrow loaded: 'plugin' - 'facebook'","timestamp":"2017-01-14T12:24:11.290Z"}
+{"level":"info","message":"Arrow loaded: 'plugin' - 'google_analytics'","timestamp":"2017-01-14T12:24:11.294Z"}
+{"level":"info","message":"Arrow loaded: 'plugin' - 'seo'","timestamp":"2017-01-14T12:24:11.295Z"}
+{"level":"info","message":"Application loaded using the \"production\" environment configuration","timestamp":"2017-01-14T12:24:11.308Z"}
+{"level":"info","message":"Application started on port 8000 , Process ID: 3076","timestamp":"2017-01-14T12:24:11.308Z"}
+{"level":"error","message":"Could not connect to redis server. ArrowJS used fakeredis","timestamp":"2017-01-14T12:26:16.143Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'menu'","timestamp":"2017-01-14T12:26:17.577Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'blog'","timestamp":"2017-01-14T12:26:17.586Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'configuration'","timestamp":"2017-01-14T12:26:17.598Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'dashboard'","timestamp":"2017-01-14T12:26:17.602Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'login'","timestamp":"2017-01-14T12:26:17.605Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'category'","timestamp":"2017-01-14T12:26:17.607Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'plugins'","timestamp":"2017-01-14T12:26:17.608Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'roles'","timestamp":"2017-01-14T12:26:17.611Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'upload'","timestamp":"2017-01-14T12:26:17.615Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'users'","timestamp":"2017-01-14T12:26:17.620Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'widgets'","timestamp":"2017-01-14T12:26:17.626Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'categories'","timestamp":"2017-01-14T12:26:17.631Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'custom_html'","timestamp":"2017-01-14T12:26:17.632Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'facebook_comments'","timestamp":"2017-01-14T12:26:17.633Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'facebook_like'","timestamp":"2017-01-14T12:26:17.637Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'facebook_share'","timestamp":"2017-01-14T12:26:17.640Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'menus'","timestamp":"2017-01-14T12:26:17.641Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'picked_posts'","timestamp":"2017-01-14T12:26:17.644Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'recent_posts'","timestamp":"2017-01-14T12:26:17.645Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'search'","timestamp":"2017-01-14T12:26:17.646Z"}
+{"level":"info","message":"Arrow loaded: 'plugin' - 'facebook'","timestamp":"2017-01-14T12:26:17.648Z"}
+{"level":"info","message":"Arrow loaded: 'plugin' - 'google_analytics'","timestamp":"2017-01-14T12:26:17.654Z"}
+{"level":"info","message":"Arrow loaded: 'plugin' - 'seo'","timestamp":"2017-01-14T12:26:17.658Z"}
+{"level":"info","message":"Application loaded using the \"production\" environment configuration","timestamp":"2017-01-14T12:26:17.672Z"}
+{"level":"info","message":"Application started on port 8000 , Process ID: 912","timestamp":"2017-01-14T12:26:17.672Z"}
+{"level":"error","message":"Could not connect to redis server. ArrowJS used fakeredis","timestamp":"2017-01-14T12:26:55.362Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'menu'","timestamp":"2017-01-14T12:26:56.393Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'blog'","timestamp":"2017-01-14T12:26:56.393Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'configuration'","timestamp":"2017-01-14T12:26:56.409Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'dashboard'","timestamp":"2017-01-14T12:26:56.409Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'login'","timestamp":"2017-01-14T12:26:56.409Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'category'","timestamp":"2017-01-14T12:26:56.409Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'plugins'","timestamp":"2017-01-14T12:26:56.409Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'roles'","timestamp":"2017-01-14T12:26:56.425Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'upload'","timestamp":"2017-01-14T12:26:56.425Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'users'","timestamp":"2017-01-14T12:26:56.425Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'widgets'","timestamp":"2017-01-14T12:26:56.440Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'categories'","timestamp":"2017-01-14T12:26:56.440Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'custom_html'","timestamp":"2017-01-14T12:26:56.440Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'facebook_comments'","timestamp":"2017-01-14T12:26:56.440Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'facebook_like'","timestamp":"2017-01-14T12:26:56.440Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'facebook_share'","timestamp":"2017-01-14T12:26:56.440Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'menus'","timestamp":"2017-01-14T12:26:56.440Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'picked_posts'","timestamp":"2017-01-14T12:26:56.440Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'recent_posts'","timestamp":"2017-01-14T12:26:56.456Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'search'","timestamp":"2017-01-14T12:26:56.456Z"}
+{"level":"info","message":"Arrow loaded: 'plugin' - 'facebook'","timestamp":"2017-01-14T12:26:56.456Z"}
+{"level":"info","message":"Arrow loaded: 'plugin' - 'google_analytics'","timestamp":"2017-01-14T12:26:56.456Z"}
+{"level":"info","message":"Arrow loaded: 'plugin' - 'seo'","timestamp":"2017-01-14T12:26:56.456Z"}
+{"level":"info","message":"Application loaded using the \"production\" environment configuration","timestamp":"2017-01-14T12:26:56.471Z"}
+{"level":"info","message":"Application started on port 8000 , Process ID: 4476","timestamp":"2017-01-14T12:26:56.471Z"}
+{"level":"error","message":"Could not connect to redis server. ArrowJS used fakeredis","timestamp":"2017-01-14T12:42:07.524Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'menu'","timestamp":"2017-01-14T12:42:08.602Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'blog'","timestamp":"2017-01-14T12:42:08.602Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'configuration'","timestamp":"2017-01-14T12:42:08.618Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'dashboard'","timestamp":"2017-01-14T12:42:08.618Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'login'","timestamp":"2017-01-14T12:42:08.618Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'category'","timestamp":"2017-01-14T12:42:08.633Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'plugins'","timestamp":"2017-01-14T12:42:08.633Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'roles'","timestamp":"2017-01-14T12:42:08.633Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'upload'","timestamp":"2017-01-14T12:42:08.633Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'users'","timestamp":"2017-01-14T12:42:08.633Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'widgets'","timestamp":"2017-01-14T12:42:08.649Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'categories'","timestamp":"2017-01-14T12:42:08.649Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'custom_html'","timestamp":"2017-01-14T12:42:08.649Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'facebook_comments'","timestamp":"2017-01-14T12:42:08.649Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'facebook_like'","timestamp":"2017-01-14T12:42:08.649Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'facebook_share'","timestamp":"2017-01-14T12:42:08.649Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'menus'","timestamp":"2017-01-14T12:42:08.665Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'picked_posts'","timestamp":"2017-01-14T12:42:08.665Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'recent_posts'","timestamp":"2017-01-14T12:42:08.665Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'search'","timestamp":"2017-01-14T12:42:08.665Z"}
+{"level":"info","message":"Arrow loaded: 'plugin' - 'facebook'","timestamp":"2017-01-14T12:42:08.665Z"}
+{"level":"info","message":"Arrow loaded: 'plugin' - 'google_analytics'","timestamp":"2017-01-14T12:42:08.665Z"}
+{"level":"info","message":"Arrow loaded: 'plugin' - 'seo'","timestamp":"2017-01-14T12:42:08.680Z"}
+{"level":"info","message":"Application loaded using the \"production\" environment configuration","timestamp":"2017-01-14T12:42:08.680Z"}
+{"level":"info","message":"Application started on port 8000 , Process ID: 6240","timestamp":"2017-01-14T12:42:08.680Z"}
+{"level":"error","message":"Could not connect to redis server. ArrowJS used fakeredis","timestamp":"2017-01-14T14:19:36.514Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'menu'","timestamp":"2017-01-14T14:19:37.577Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'blog'","timestamp":"2017-01-14T14:19:37.585Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'configuration'","timestamp":"2017-01-14T14:19:37.595Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'dashboard'","timestamp":"2017-01-14T14:19:37.599Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'login'","timestamp":"2017-01-14T14:19:37.602Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'category'","timestamp":"2017-01-14T14:19:37.604Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'plugins'","timestamp":"2017-01-14T14:19:37.604Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'roles'","timestamp":"2017-01-14T14:19:37.607Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'upload'","timestamp":"2017-01-14T14:19:37.611Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'users'","timestamp":"2017-01-14T14:19:37.617Z"}
+{"level":"info","message":"Arrow loaded: 'feature' - 'widgets'","timestamp":"2017-01-14T14:19:37.622Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'categories'","timestamp":"2017-01-14T14:19:37.625Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'custom_html'","timestamp":"2017-01-14T14:19:37.626Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'facebook_comments'","timestamp":"2017-01-14T14:19:37.628Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'facebook_like'","timestamp":"2017-01-14T14:19:37.633Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'facebook_share'","timestamp":"2017-01-14T14:19:37.634Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'menus'","timestamp":"2017-01-14T14:19:37.636Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'picked_posts'","timestamp":"2017-01-14T14:19:37.638Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'recent_posts'","timestamp":"2017-01-14T14:19:37.640Z"}
+{"level":"info","message":"Arrow loaded: 'widget' - 'search'","timestamp":"2017-01-14T14:19:37.642Z"}
+{"level":"info","message":"Arrow loaded: 'plugin' - 'facebook'","timestamp":"2017-01-14T14:19:37.645Z"}
+{"level":"info","message":"Arrow loaded: 'plugin' - 'google_analytics'","timestamp":"2017-01-14T14:19:37.649Z"}
+{"level":"info","message":"Arrow loaded: 'plugin' - 'seo'","timestamp":"2017-01-14T14:19:37.651Z"}
+{"level":"info","message":"Application loaded using the \"production\" environment configuration","timestamp":"2017-01-14T14:19:37.663Z"}
+{"level":"info","message":"Application started on port 8000 , Process ID: 3400","timestamp":"2017-01-14T14:19:37.664Z"}

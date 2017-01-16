@@ -1,0 +1,23 @@
+{
+  "information": {
+    "theme_name": "hyip",
+    "theme_uri": "",
+    "author": "tien",
+    "author_email": "",
+    "version": "1.0",
+    "description": "",
+    "license": "",
+    "license_uri": "",
+    "tag": "bootstrap, corporate, html, responsive, corlate"
+  },
+  "sidebars": [
+    {
+      "name": "right-sidebar",
+      "title": "Right sidebar"
+    },
+    {
+      "name": "main-menu",
+      "title": "Main nenu"
+    }
+  ]
+}

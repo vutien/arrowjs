@@ -1,0 +1,26 @@
+<div class="container header">
+    <div id="logo" class="pull-left">
+        <img src="http://hyip-zoom.net/img/newzlogo.png">
+    </div>
+    <div class="pull-right">
+        <img src="728.gif">
+    </div>
+</div>
+<nav class="navbar navbar-default nav-main">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span> 
+            </button>
+        </div>
+        <div class="collapse navbar-collapse" id="myNavbar">
+            {{ getSidebar("main-menu") | async | safe }}
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+                <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>

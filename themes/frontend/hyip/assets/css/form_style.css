@@ -1,0 +1,63 @@
+.forgot{
+    margin-bottom: 15px;
+    font-size: small;
+}
+.dont{
+    margin-top:25px;
+    margin-bottom: 15px;
+
+    text-align: center;
+    
+}
+.tit{
+    background: white;
+    display:inline;
+    padding:0px 10px 0px 10px;
+    margin:auto;
+    font-size: small;
+
+}
+
+.line{
+    border-top:1px solid #ccc;
+    margin-bottom: -10px;
+}
+
+.social {
+    text-align: center;
+    margin-bottom: 15px;
+    
+}
+.btn-google, .btn-facebook {
+    color: white;
+    text-decoration: none !important;
+}
+.btn-google:hover, .btn-facebook:hover {
+    color: white;
+    
+}
+.btn-google {
+    background: #e0492f;
+    width: 47%;
+}
+.icon-con {
+    display: inline;
+    float: left;
+    border-right: 1px solid rgba(12,13,14,0.1);
+    padding-right: 10px;
+    margin-right: 10px;
+}
+.btn-facebook {
+    background: #395697;
+    width: 47%;
+}
+
+.back{
+    text-align: center;
+    margin-top: 15px;
+}
+.titpanel{
+    text-align: center;
+    font-size: 17px;
+    margin-bottom: 20px;
+}

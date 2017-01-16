@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Change password</title>
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+	<link href="asset/css/bootstrap.min.css" rel="stylesheet">
+	<link href="asset/css/form_style.css" rel="stylesheet">
+	<link href="asset/css/site.css" rel="stylesheet">
+	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+	<nav class="navbar navbar-default">
+		<div class="container-fluid">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span> 
+				</button>
+				<a class="navbar-brand" href="#">WebSiteName</a>
+			</div>
+			<div class="collapse navbar-collapse" id="myNavbar">
+				<ul class="nav navbar-nav">
+					<li class="active"><a href="#">Home</a></li>
+					<li><a href="#">Add Program</a></li>
+					<li><a href="#">Advertise</a></li>
+					<li><a href="#">RCB</a></li>
+					<li><a href="#">Contact</a></li>
+				</ul>
+				<ul class="nav navbar-nav navbar-right">
+					<li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+					<li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-sm-2">
+				<div class="panel panel-default">
+					<div class="panel-body">
+
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-6">
+				<div class="panel panel-default addprogram">
+					<div class="panel-heading"><span class="glyphicon glyphicon-plus"></span> Add Program</div>
+					<div class="panel-body">
+					
+						<form class="form-horizontal ">
+							<div class="form-group">
+								<label class="control-label col-sm-3" for="pwd">Type of listing:</label>
+								<div class="col-sm-9">
+									<select class="form-control" id="list">
+										<option value="0">Type</option>
+										<option value="1">Advanced</option>
+										<option value="2">Diamond</option>
+										<option value="3">Normal</option>
+										<option value="4">Trial</option>
+									</select>
+								</div>
+							</div>
+							<div class="form-group">
+								<label class="control-label col-sm-3" for="email">Site Name:</label>
+								<div class="col-sm-9">
+									<input type="email" class="form-control" id="email" placeholder="">
+								</div>
+							</div>
+							<div class="form-group">
+								<label class="control-label col-sm-3" for="pwd">Site Url:</label>
+								<div class="col-sm-9">
+									<input type="text" class="form-control" id="pwd" placeholder="">
+								</div>
+							</div>
+							<div class="form-group">
+								<label class="control-label col-sm-3" for="pwd">Email:</label>
+								<div class="col-sm-9">
+									<input type="text" class="form-control" id="pwd" placeholder="">
+								</div>
+							</div>
+							<div class="form-group">
+								<label class="control-label col-sm-3" for="pwd">Minimal Deposit:</label>
+								<div class="col-sm-9">
+									<input type="text" class="form-control" id="pwd" placeholder="">
+								</div>
+							</div>
+							<div class="form-group">
+								<label class="control-label col-sm-3" for="pwd">Maximal Deposit:</label>
+								<div class="col-sm-9">
+									<input type="text" class="form-control" id="pwd" placeholder="">
+								</div>
+							</div>
+							<div class="form-group">
+								<label class="control-label col-sm-3" for="pwd">Referral Bonus:</label>
+								<div class="col-sm-9">
+									<input type="text" class="form-control" id="pwd" placeholder="">
+								</div>
+							</div>
+							
+							<div class="form-group">
+								<label class="control-label col-sm-3" for="pwd">Witddrawal Type:</label>
+								<div class="col-sm-9">
+									<select class="form-control">
+										<option>Instant</option>
+										<option>Automatic</option>
+										<option>Manual</option>
+									</select>
+								</div>
+							</div>
+							<div class="form-group">
+								<label class="control-label col-sm-3" for="pwd">Payment Metdods:</label>
+								<div class="col-sm-9">
+									<label class="checkbox-inline">
+										<input type="checkbox" id="inlineCheckbox1" value="option1"> Perfect money
+									</label>
+									<label class="checkbox-inline">
+										<input type="checkbox" id="inlineCheckbox2" value="option2"> Paypal
+									</label>
+									<label class="checkbox-inline">
+										<input type="checkbox" id="inlineCheckbox3" value="option3"> BTC
+									</label>
+								</div>
+							</div>
+							<div class="form-group">
+								<label class="control-label col-sm-3" for="pwd">Feature:</label>
+								<div class="col-sm-9">
+									<label class="checkbox-inline">
+										<input type="checkbox" id="inlineCheckbox1" value="option1"> SSL
+									</label>
+									<label class="checkbox-inline">
+										<input type="checkbox" id="inlineCheckbox2" value="option2"> DDS
+									</label>
+								</div>
+							</div>
+							<div class="form-group">
+								<label class="control-label col-sm-3" for="pwd">Interest Percents:</label>
+								<div class="col-sm-9">
+									<input type="text" class="form-control" id="pwd" placeholder="">
+								</div>
+							</div>
+							<div class="form-group">
+								<label class="control-label col-sm-3" for="pwd">Description:</label>
+								<div class="col-sm-9">
+									<textarea class="form-control" id="pwd" placeholder=""></textarea>
+								</div>
+							</div>
+							<div class="form-group">
+								<label class="control-label col-sm-3" for="pwd">Support Forum:</label>
+								<div class="col-sm-9" id="forum">
+									<input type="text" class="form-control">
+									<input type="text" class="form-control">
+									
+								</div>
+								<div class="col-sm-9 col-sm-offset-3">
+									<button type="button" class="btn btn-default pull-right" id="addlink"><span class="glyphicon glyphicon-link"></span> Add link</button>
+								</div>
+							</div>
+							<div class="form-group">
+								<div class="col-sm-offset-3 col-sm-9">
+									<button type="submit" class="btn btn-primary">Submit Program</button>
+								</div>
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<div class="panel panel-default">
+
+					<div class="panel-body">
+					<div id="list1" class="lis">						
+						<h3>Advanced Listing</h3>
+						Monitor fee is $200 + $40. $200 will be reinvested in your program. This one comprise following services:<br>
+
+						- We monitoring of your program for a lifetime.<br>
+						- We start best promote strategy for your program.<br>
+						- We posting news and payments from your program EVERY DAY on all popular forums.<br>
+						- We offer highest referral comission back - upto 5000%<br>
+						- Free a top 728x90 banner for 2 weeks !<br>
+						- Free a top 468x60 banner for 1 month !<br>
+						- When you purchase advertising, amount of RCB will be increased!<br>
+					</div>
+					<div id="list2" class="lis">
+						<h3>Diamond Listing</h3>
+						Monitor fee is $100 + $30. $100 will be reinvested in your program. This one comprise following services:<br>
+
+						- We monitoring of your program for a lifetime.<br>
+						- We will publish a Review on zBlog in 5 days monitored<br>
+						- We posting news and payments from your program EVERY DAY on all forums.<br>
+						- We offer highest referral comission back - upto 3000%<br>
+						- Free a top 728x90 banner for 10 days !<br>
+						- When you purchase advertising, amount of RCB will be increased!<br>
+					</div>
+					<div id="list3" class="lis">
+						<h3>Normal Listing</h3> 
+						Monitor fee is $60 + $10. $60 will be reinvested in your program. This one comprise following services:<br>
+
+						- We monitoring of your program for a lifetime.<br>
+						- We posting news and payments from your program EVERY DAY on all forums.<br>
+						- We offer highest referral comission back - upto 3000%<br>
+						- Free a 728x90 banner for 5 days !<br>
+						- When you purchase advertising, amount of RCB will be increased!<br>
+					</div>
+					<div id="list4" class="lis">
+						<h3>Trial Listing</h3>
+						- Monitor fee is $30 + $5. $30 will be reinvested in your program. This one comprise following services:<br>
+						- We monitoring of your program for a lifetime.<br>
+						- We posting news and payments from your program EVERY DAY on all forums.<br>
+						- We offer highest referral comission back - upto 2000%<br>
+						- When you purchase advertising, amount of RCB will be increased!<br>
+					</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+	<!-- Include all compiled plugins (below), or include individual files as needed -->
+	<script src="asset/js/bootstrap.min.js"></script>
+	<script>
+		$(document).ready(function(){
+			$('#list').change(function(){
+				for (i=1; i<=4; i++){
+					if (i == $(this).val() || $(this).val() == 0)
+						
+						$('#list'+i).show();
+					else $('#list'+i).hide();
+		
+				}
+			});
+
+			$('#addlink').click(function(){
+				$('#forum').append('<input type="text" class="form-control">');
+			});
+		});
+	</script>
+</body>
+
+</html>
